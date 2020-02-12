@@ -1,0 +1,28 @@
+{
+  "name": "fronted-ign",
+  "version": "1.0.0",
+  "description": "Fronted del proyecto IGN para Surtidora Lainez",
+  "author": "Williams Santos",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "material-icons": "^0.3.1",
+    "nuxt": "^2.0.0",
+    "vuesax": "^3.11.1",
+    "bootstrap": "^4.4.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
+    "qs": "^6.9.1"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
+  }
+}
